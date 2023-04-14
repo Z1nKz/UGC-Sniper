@@ -1,6 +1,6 @@
 
-# [UGC Sniper]((https://discord.gg/3Uvcf8d9aY))
-A free UGC sniper bot for roblox that sniper free limiteds.
+# [UGC Sniper]((https://discord.gg/tsbh7axChf))
+A free UGC sniper bot for roblox that sniper free limiteds the main.py is very fast and works well. for better results use proxies
 
 **[Unofficial installation guide](https://docs.google.com/document/d/1VAqSW067-8OlexScBwje-HJcMn7vXJJM3WuRHE97-QU/edit)**
 
